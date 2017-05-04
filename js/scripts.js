@@ -4,6 +4,4 @@ var animal = 'Zielone słonie';
 
 var textCharsAfter = text.replace ('Papugi', animal.toUpperCase());
 
-var halfOfLength = textCharsAfter.length/2;
-
-console.log(halfOfLength);
+console.log(textCharsAfter.length/2);
